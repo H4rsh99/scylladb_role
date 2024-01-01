@@ -5,4 +5,4 @@ filters:
    tag:Name:
     - "scyl"
 compose:
-   ansible_host: private_ip_address
+   ansible_host: public_ip_address
